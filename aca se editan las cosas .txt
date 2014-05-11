@@ -1,2 +1,99 @@
-asdasdasd
-azssadads qweeqw
+Diccionario de datos
+*Almacenamientos:
+1) -Nombre: Facturas
+-Campos:
+2) -Nombre: Pagos al contado
+-Campos:
+3) -Nombre:Cuenta corriente
+-Campos:
+4) -Nombre: Órdenes anuladas
+-Campos:
+5) -Nombre: Stock
+-Campos:
+6) -Nombre: Pedidos
+-Campos:
+7) -Nombre: Pedidos pendientes
+-Campos:
+8) -Nombre: Vendedores
+-Campos:
+9) -Nombre: Clientes
+-Campos:
+
+*Flujos de datos
+1) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+2) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+3) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+4) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+5) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+6) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+7) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+8) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+9) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+10) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+11) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+12) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+13) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+14) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+15) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+16) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+17) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+18) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+19) -Nombre:
+-Campos:
+-Origen:
+-Destino:
+20
